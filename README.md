@@ -1,2 +1,2 @@
 # simple -GUI-Calculator
- gui-calculator
+ just a practice code gui calculator
